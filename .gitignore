@@ -1,0 +1,4 @@
+# Ignore Mac-specific files and folders
+.DS_Store
+__MACOSX/
+Linux/.DS_Store

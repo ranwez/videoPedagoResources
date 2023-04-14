@@ -1,0 +1,9 @@
+-rw-r--r--  1 ranwez  staff  27116 20 fév 09:52 LOC_21160.fasta
+-rw-r--r--  1 ranwez  staff  31243 20 fév 09:52 LOC_24680.fasta
+-rw-r--r--  1 ranwez  staff  22445 20 fév 09:52 LOC_37560.fasta
+-rw-r--r--  1 ranwez  staff  24209 20 fév 09:52 LOC_39310.fasta
+-rw-r--r--  1 ranwez  staff  19446 20 fév 09:52 LOC_60230.fasta
+-rw-r--r--  1 ranwez  staff  22780 20 fév 09:52 LOC_61720.fasta
+-rw-r--r--  1 ranwez  staff  33235 20 fév 09:52 LOC_62900.fasta
+-rw-r--r--  1 ranwez  staff  29372 20 fév 09:52 LOC_67220.fasta
+-rw-r--r--  1 ranwez  staff  27685 20 fév 09:52 LOC_68770.fasta

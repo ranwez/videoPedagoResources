@@ -1,0 +1,140 @@
+GO:0001777	T cell homeostatic proliferation
+GO:0001787	natural killer cell proliferation
+GO:0001833	inner cell mass cell proliferation
+GO:0001834	trophectodermal cell proliferation
+GO:0001866	NK T cell proliferation
+GO:0001935	endothelial cell proliferation
+GO:0001936	regulation of endothelial cell proliferation
+GO:0001938	positive regulation of endothelial cell proliferation
+GO:0002043	blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+GO:0002052	positive regulation of neuroblast proliferation
+GO:0002053	positive regulation of mesenchymal cell proliferation
+GO:0002158	osteoclast proliferation
+GO:0002176	male germ cell proliferation
+GO:0002309	T cell proliferation involved in immune response
+GO:0002358	B cell homeostatic proliferation
+GO:0003264	regulation of cardioblast proliferation
+GO:0003266	regulation of secondary heart field cardioblast proliferation
+GO:0003270	Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation
+GO:0003419	growth plate cartilage chondrocyte proliferation
+GO:0003420	regulation of growth plate cartilage chondrocyte proliferation
+GO:0007405	neuroblast proliferation
+GO:0008283	cell proliferation
+GO:0008284	positive regulation of cell proliferation
+GO:0010463	mesenchymal cell proliferation
+GO:0010464	regulation of mesenchymal cell proliferation
+GO:0010625	positive regulation of Schwann cell proliferation
+GO:0010837	regulation of keratinocyte proliferation
+GO:0010838	positive regulation of keratinocyte proliferation
+GO:0014009	glial cell proliferation
+GO:0014010	Schwann cell proliferation
+GO:0014842	regulation of satellite cell proliferation
+GO:0014858	positive regulation of skeletal muscle cell proliferation
+GO:0021846	cell proliferation in forebrain
+GO:0021930	cerebellar granule cell precursor proliferation
+GO:0021937	cerebellar Purkinje cell-granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation
+GO:0021938	smoothened signaling pathway involved in regulation of cerebellar granule cell precursor cell proliferation
+GO:0021940	positive regulation of cerebellar granule cell precursor proliferation
+GO:0022018	lateral ganglionic eminence cell proliferation
+GO:0030888	regulation of B cell proliferation
+GO:0030890	positive regulation of B cell proliferation
+GO:0032819	positive regulation of natural killer cell proliferation
+GO:0032943	mononuclear cell proliferation
+GO:0032946	positive regulation of mononuclear cell proliferation
+GO:0033080	immature T cell proliferation in thymus
+GO:0033091	positive regulation of immature T cell proliferation
+GO:0033092	positive regulation of immature T cell proliferation in thymus
+GO:0033278	cell proliferation in midbrain
+GO:0033598	mammary gland epithelial cell proliferation
+GO:0033599	regulation of mammary gland epithelial cell proliferation
+GO:0033601	positive regulation of mammary gland epithelial cell proliferation
+GO:0033687	osteoblast proliferation
+GO:0033688	regulation of osteoblast proliferation
+GO:0033690	positive regulation of osteoblast proliferation
+GO:0035604	fibroblast growth factor receptor signaling pathway involved in positive regulation of cell proliferation in bone marrow
+GO:0035726	common myeloid progenitor cell proliferation
+GO:0035739	CD4-positive, alpha-beta T cell proliferation
+GO:0035740	CD8-positive, alpha-beta T cell proliferation
+GO:0035988	chondrocyte proliferation
+GO:0042098	T cell proliferation
+GO:0042100	B cell proliferation
+GO:0042102	positive regulation of T cell proliferation
+GO:0042104	positive regulation of activated T cell proliferation
+GO:0042127	regulation of cell proliferation
+GO:0042129	regulation of T cell proliferation
+GO:0043616	keratinocyte proliferation
+GO:0044340	canonical Wnt receptor signaling pathway involved in regulation of cell proliferation
+GO:0044342	type B pancreatic cell proliferation
+GO:0046013	regulation of T cell homeostatic proliferation
+GO:0046633	alpha-beta T cell proliferation
+GO:0046641	positive regulation of alpha-beta T cell proliferation
+GO:0046651	lymphocyte proliferation
+GO:0048144	fibroblast proliferation
+GO:0048145	regulation of fibroblast proliferation
+GO:0048146	positive regulation of fibroblast proliferation
+GO:0048659	smooth muscle cell proliferation
+GO:0048660	regulation of smooth muscle cell proliferation
+GO:0048661	positive regulation of smooth muscle cell proliferation
+GO:0050671	positive regulation of lymphocyte proliferation
+GO:0050673	epithelial cell proliferation
+GO:0050674	urothelial cell proliferation
+GO:0050677	positive regulation of urothelial cell proliferation
+GO:0050678	regulation of epithelial cell proliferation
+GO:0050679	positive regulation of epithelial cell proliferation
+GO:0050798	activated T cell proliferation
+GO:0051142	positive regulation of NK T cell proliferation
+GO:0051450	myoblast proliferation
+GO:0060011	Sertoli cell proliferation
+GO:0060038	cardiac muscle cell proliferation
+GO:0060043	regulation of cardiac muscle cell proliferation
+GO:0060045	positive regulation of cardiac muscle cell proliferation
+GO:0060054	positive regulation of epithelial cell proliferation involved in wound healing
+GO:0060252	positive regulation of glial cell proliferation
+GO:0060501	positive regulation of epithelial cell proliferation involved in lung morphogenesis
+GO:0060502	epithelial cell proliferation involved in lung morphogenesis
+GO:0060517	epithelial cell proliferation involved in prostatic bud elongation
+GO:0060664	epithelial cell proliferation involved in salivary gland morphogenesis
+GO:0060750	epithelial cell proliferation involved in mammary gland duct elongation
+GO:0060768	regulation of epithelial cell proliferation involved in prostate gland development
+GO:0060769	positive regulation of epithelial cell proliferation involved in prostate gland development
+GO:0060782	regulation of mesenchymal cell proliferation involved in prostate gland development
+GO:0060784	regulation of cell proliferation involved in tissue homeostasis
+GO:0060916	mesenchymal cell proliferation involved in lung development
+GO:0061324	canonical Wnt receptor signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation
+GO:0061325	cell proliferation involved in outflow tract morphogenesis
+GO:0061351	neural precursor cell proliferation
+GO:0070349	positive regulation of brown fat cell proliferation
+GO:0070350	regulation of white fat cell proliferation
+GO:0070352	positive regulation of white fat cell proliferation
+GO:0070447	positive regulation of oligodendrocyte progenitor proliferation
+GO:0070661	leukocyte proliferation
+GO:0070662	mast cell proliferation
+GO:0070668	positive regulation of mast cell proliferation
+GO:0071335	hair follicle cell proliferation
+GO:0071338	positive regulation of hair follicle cell proliferation
+GO:0071425	hemopoietic stem cell proliferation
+GO:0071864	positive regulation of cell proliferation in bone marrow
+GO:0072089	stem cell proliferation
+GO:0072091	regulation of stem cell proliferation
+GO:0072110	glomerular mesangial cell proliferation
+GO:0072111	cell proliferation involved in kidney development
+GO:0072126	positive regulation of glomerular mesangial cell proliferation
+GO:0072136	metanephric mesenchymal cell proliferation involved in metanephros development
+GO:0072138	mesenchymal cell proliferation involved in ureteric bud development
+GO:0072198	mesenchymal cell proliferation involved in ureter development
+GO:0072203	cell proliferation involved in metanephros development
+GO:0072262	metanephric glomerular mesangial cell proliferation involved in metanephros development
+GO:0072303	positive regulation of glomerular metanephric mesangial cell proliferation
+GO:0072513	positive regulation of secondary heart field cardioblast proliferation
+GO:0072574	hepatocyte proliferation
+GO:0090094	metanephric cap mesenchymal cell proliferation involved in metanephros development
+GO:0090096	positive regulation of metanephric cap mesenchymal cell proliferation
+GO:2000081	positive regulation of canonical Wnt receptor signaling pathway involved in controlling type B pancreatic cell proliferation
+GO:2000138	positive regulation of cell proliferation involved in heart morphogenesis
+GO:2000177	regulation of neural precursor cell proliferation
+GO:2000179	positive regulation of neural precursor cell proliferation
+GO:2000256	positive regulation of male germ cell proliferation
+GO:2000347	positive regulation of hepatocyte proliferation
+GO:2000648	positive regulation of stem cell proliferation
+GO:2000729	positive regulation of mesenchymal cell proliferation involved in ureter development
+GO:2001013	epithelial cell proliferation involve in renal tubule morphogenesis

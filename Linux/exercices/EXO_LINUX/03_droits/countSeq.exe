@@ -1,0 +1,6 @@
+if (($# !=1 )); then
+	echo "ce programme compte le nombre de séquence d'un fichier fasta"
+	echo "utilisation: $0 fichier.fasta"
+else
+	grep -c ">" $1
+fi
